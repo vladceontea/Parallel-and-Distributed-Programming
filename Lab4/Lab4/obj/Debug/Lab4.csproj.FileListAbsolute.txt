@@ -1,0 +1,8 @@
+C:\Diverse\PDP\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Diverse\PDP\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Diverse\PDP\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Diverse\PDP\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Diverse\PDP\Lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+C:\Diverse\PDP\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Diverse\PDP\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Diverse\PDP\Lab4\Lab4\obj\Debug\Lab4.pdb
